@@ -13,5 +13,6 @@ Anchor does not provide medical advice. It is a self-control and habit-support t
 Anchor contains in app purchases and subscriptions
 
 ## Contact
-For support, please visit:
-https://YOUR_USERNAME.github.io/anchor-app-legal/support.html
+For support, please contact 
+seidelethan@gmail.com
+
